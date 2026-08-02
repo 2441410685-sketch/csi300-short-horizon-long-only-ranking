@@ -1,0 +1,6 @@
+baostock==0.8.9
+lightgbm==4.6.0
+numpy==1.26.4
+pandas==2.2.3
+pyarrow==19.0.1
+

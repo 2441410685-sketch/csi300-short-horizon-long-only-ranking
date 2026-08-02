@@ -1,0 +1,2 @@
+start_date,end_date,n_signal_days,top5_return_mean,top5_return_std,top5_sharpe_annualized_5d,top5_positive_ratio,market_return_mean,alpha_return_mean,alpha_information_ratio_annualized_5d,top5_beats_market_ratio,rank_ic_mean,rank_icir
+2025-07-29,2026-07-24,240,0.016559261454884167,0.06145614219344116,1.912894140499882,0.5958333333333333,0.001412593144285409,0.015146668310598759,1.9552469680840077,0.6166666666666667,0.0069539275026199296,0.03294493542141471

@@ -1,0 +1,20 @@
+{
+  "model": "LightGBM LambdaRank F3",
+  "model_version": "1.0.0",
+  "signal_date": "2026-07-31",
+  "label_available_through": "2026-07-24",
+  "train_start": "2022-08-01",
+  "train_end": "2026-07-24",
+  "training_rows": 289174,
+  "training_dates": 965,
+  "feature_set": "Alpha158 + 28 technical indicators",
+  "feature_count": 186,
+  "label": "(open_T+5-open_T+1)/open_T+1",
+  "gap_days": 5,
+  "inner_valid_days": 120,
+  "selected_iteration": 43,
+  "random_seed": 2026,
+  "selection_metric": "validation Top5 return only",
+  "model_sha256": "749b79477a09e6d663b386b1a376cdcf9c9d1109307d34da131e474b8739318c"
+}
+
